@@ -27,7 +27,8 @@ class Server(object):
         for line in file:
             line = line.translate(None, '\n')
             data = line.split('|', 3)
-            self.database[data[0]] = (data[1], data[2], data[3])
+            if(data[0].translate(None, ' ') != ''):
+                self.database[data[0]] = (data[1].translate(None, ' '), data[2], data[3])
         print "Database read from file"
         print self.database
         
