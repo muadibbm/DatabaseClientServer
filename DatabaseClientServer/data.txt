@@ -1,22 +1,4 @@
+Katya|26|49 Queen Mary Road|514 234-7654
+Hamid|69|1225 Notre Dame O|514 933-0282
 John|43|123 Apple street|514 428-3452
-Katya| 26|49 Queen Mary Road|514 234-7654
 Ahmad|91|1888 Pepper Lane|
-David|45|123 Apple street|514 428-3452
-Vipul|36|49 Queen Mary Road|514 234-7654
-Chu|22|1888 Pepper Lane|
-Wu|43|123 Apple street|514 428-3452
-Hamid|29|49 Queen Mary Road|514 234-7654
-Kira|91|1888 Pepper Lane|
-Anderson|22||514 428-3452
-Julia|67|49 Queen Mary Road|514 234-7654
-Ben|20|1888 Pepper Lane|
-Yann|91|1888 Pepper Lane|514 234-2345
-John|45|123 Apple street|514 428-3452
-Thuy|36|49 Queen Mary Road|514 234-7654
-Rahim|22|1888 Pepper Lane|
-Nilu|43|123 Apple street|514 428-3452
-Kevin|29|49 Queen Mary Road|514 234-7654
-Elise|91|1888 Pepper Lane|
-Nath|22||514 428-3452
-Julian|67|49 Queen Mary Road|514 234-7654
-Nihan|20|1888 Pepper Lane|
