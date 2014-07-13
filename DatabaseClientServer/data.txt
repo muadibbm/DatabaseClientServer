@@ -1,4 +1,10 @@
-Katya|26|49 Queen Mary Road|514 234-7654
-Hamid|69|1225 Notre Dame O|514 933-0282
-John|43|123 Apple street|514 428-3452
+Doctor|53|120 Queen Mary Road|514 126-2345
+Katya|26|49 Queen Mary Road|514 122-7501
 Ahmad|91|1888 Pepper Lane|
+David|26|49 Queen Mary Road|514 234-7654
+Skeletonking|100|1888 Pepper Lane|
+Sven|11||
+Axe|10|Troll village|514 126-6591
+Fardin|91|1200 Notre Dame Lane|
+Simba|26|11 Queen Mary Road|514 234-7654
+monroe|21|1888 Pern street|514 123-4567

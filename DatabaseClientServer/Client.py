@@ -66,7 +66,8 @@ class Client(object):
                                          self._getInput('Enter Phone'))
                 print self._client_socket.recv(1024)
             elif(client_input == '7'):
-                pass
+                self._client_socket.send('7#')
+                print self._client_socket.recv(1024)
             elif(client_input == '8'):
                 self._client_socket.send('8#')
                 self._client_socket.close()

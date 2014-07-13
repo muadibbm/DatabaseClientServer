@@ -54,7 +54,7 @@ class Server(object):
                     elif(values[0] == '6'):
                         self._updateCustomerPhone(values[1], values[2])
                     elif(values[0] == '7'):
-                        pass
+                        self._printReport()
                     elif(values[0] == '8'):
                         break
                     self._updateDatabase()
@@ -116,7 +116,10 @@ class Server(object):
             self._sendMessage("Customer not found")
     
     def _printReport(self):
-        pass
+        report = ''
+        for entry in self._database:
+            report += entry + '|' + self._database[entry][0] + '|' + self._database[entry][1] + '|' + self._database[entry][2] + '\n'
+        self._sendMessage(report)
    
 if  __name__ =='__main__':
     server = Server(9999)
